@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+ <defs>
+  <linearGradient id="offset" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1536" y2="0" color-interpolation="sRGB">
+  <stop offset="0.00000000" stop-color="rgb(50%,0.000000%,50%)"/>
+  <stop offset="0.03255208" stop-color="rgb(50%,0.000000%,50%)"/>
+  <stop offset="0.06510417" stop-color="rgb(50%,0.000000%,50%)"/>
+  <stop offset="0.09765625" stop-color="rgb(50%,0.728863%,50%)"/>
+  <stop offset="0.13020833" stop-color="rgb(50%,2.769679%,50%)"/>
+  <stop offset="0.16276042" stop-color="rgb(50%,5.903790%,50%)"/>
+  <stop offset="0.19531250" stop-color="rgb(50%,9.912536%,50%)"/>
+  <stop offset="0.22786458" stop-color="rgb(50%,14.577259%,50%)"/>
+  <stop offset="0.26041667" stop-color="rgb(50%,19.679300%,50%)"/>
+  <stop offset="0.29296875" stop-color="rgb(50%,25.000000%,50%)"/>
+  <stop offset="0.32552083" stop-color="rgb(50%,30.320700%,50%)"/>
+  <stop offset="0.35807292" stop-color="rgb(50%,35.422741%,50%)"/>
+  <stop offset="0.39062500" stop-color="rgb(50%,40.087464%,50%)"/>
+  <stop offset="0.42317708" stop-color="rgb(50%,44.096210%,50%)"/>
+  <stop offset="0.45572917" stop-color="rgb(50%,47.230321%,50%)"/>
+  <stop offset="0.48828125" stop-color="rgb(50%,49.271137%,50%)"/>
+  <stop offset="0.52083333" stop-color="rgb(50%,50.000000%,50%)"/>
+  <stop offset="1" stop-color="rgb(50%,50%,50%)"/>
+  </linearGradient>
+ </defs>
+ <rect width="1536" height="1024" fill="url(#offset)"/>
+</svg>
